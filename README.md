@@ -13,5 +13,5 @@ The following types of Zombies (and baby variants) will stop attacking doors:
 * Zombie
 * Husk
 * Zombie Villager
-* Drawn
+* Drowned
 * Zombified Piglin
