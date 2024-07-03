@@ -23,7 +23,9 @@ license
 -------
 
 [Zombie Proof Doors Datapack for Minecraft][] by [MeeniMC][] is
-licensed under [CC BY-NC-SA 4.0![][1]![][2]![][3]![][4]][5]
+licensed under
+
+[CC BY-NC-SA 4.0![][1]![][2]![][3]![][4]][5]
 
 Contact me if you have commercial plans.
 
